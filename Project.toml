@@ -1,0 +1,4 @@
+name = "QdrantClient"
+uuid = "dbf27b73-4180-4391-851d-5a3d165c9711"
+authors = ["AbrJA <ajaimes@occ.com.mx>"]
+version = "0.1.0"
